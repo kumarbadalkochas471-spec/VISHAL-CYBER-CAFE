@@ -1,0 +1,6 @@
+{
+  "name": "Vishal Cyber Cafe",
+  "description": "Complete All-in-One Cyber Cafe and CSC Centre Management System for operations, services, billing, photo & document tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
